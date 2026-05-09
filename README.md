@@ -1,2 +1,10 @@
 # IT-Support-Help-Desk-Portfolio
-My goal is to develop strong operational skills required in modern IT support and technical assistance environments, while improving my problem-solving methods, troubleshooting communication, and developing my cybersecurity analysis skills.
+
+## This portfolio showcases projects focused on:
+
+> Windows troubleshooting
+>> IT support incident handling,
+>>>>> Microsoft 365 support
+>>>>>> Documentation and ticketing workflows
+
+My goal is to develop strong operational skills required in modern IT Support and Help Desk environments while improving problem-solving, communication, and troubleshooting methodologies.
