@@ -150,7 +150,7 @@ if account disabled , locked ?
     Department : HR
     Internal audit according to enterprise policy
 
-2 — Reset password
+#### — Reset password
 
 <img width="1914" height="860" alt="Capture d’écran du 2026-05-12 17-24-01" src="https://github.com/user-attachments/assets/c2caa1a4-8aaa-4c8d-88c2-8609a6106ba6" />
 
@@ -160,13 +160,14 @@ if account disabled , locked ?
 
 
 
-4 — Unlock an account
+#### — Unlock an account
 
 <img width="1914" height="860" alt="Capture d’écran du 2026-05-12 17-32-30" src="https://github.com/user-attachments/assets/19ca4bbc-aaea-4da6-9c68-da745e6e91de" />
 
 
-5 - Deactivating an account
-Click right user
+### Deactivating an account
+
+#### If an employer has left the companyClick right user
 
 Then :
 
@@ -224,5 +225,30 @@ Name :
 
 
 ### Step 3 — Edit GPO — Password Policy
+
+<img width="1913" height="860" alt="Capture d’écran du 2026-05-12 17-53-22" src="https://github.com/user-attachments/assets/b155cdcb-c092-4dc1-9b97-1913ff6d9506" />
+
+<img width="1913" height="860" alt="Capture d’écran du 2026-05-12 17-58-54" src="https://github.com/user-attachments/assets/aecab701-2fbd-4513-9fe7-e30b8a5ae441" />
+
+<img width="1913" height="860" alt="Capture d’écran du 2026-05-12 17-55-00" src="https://github.com/user-attachments/assets/b0e485e3-3e81-4f3b-8ea6-48bfbb4176e6" />
+
+---
+
+## Security group
+
+<img width="1913" height="860" alt="Capture d’écran du 2026-05-12 18-22-54" src="https://github.com/user-attachments/assets/e74df2b5-9e9b-466f-ae17-54ed745d37b5" />
+
+<img width="1028" height="860" alt="Capture d’écran du 2026-05-12 18-24-21" src="https://github.com/user-attachments/assets/6d8b880e-8740-42f3-8f8d-9b1676ed3bf5" />
+
+<img width="1028" height="860" alt="Capture d’écran du 2026-05-12 18-29-53" src="https://github.com/user-attachments/assets/a4a0735f-2ba6-4103-a404-3dfdab67e847" />
+
+#### Add users to group
+
+<img width="1117" height="860" alt="Capture d’écran du 2026-05-12 18-31-13" src="https://github.com/user-attachments/assets/37cb225a-2c93-420b-9491-563bc54dd257" />
+
+<img width="1117" height="860" alt="Capture d’écran du 2026-05-12 18-33-20" src="https://github.com/user-attachments/assets/03069f72-7214-4ec4-8860-ae398d14f185" />
+
+<img width="1910" height="860" alt="Capture d’écran du 2026-05-12 18-40-23" src="https://github.com/user-attachments/assets/623776ea-eb7b-4c72-a781-a27e9de6ffa1" />
+
 
 ---
