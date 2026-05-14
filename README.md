@@ -28,12 +28,12 @@ VirtualBox
 
 ### Tasks Performed
 
-• Create a Structure Organizational  Units (OU) Professional
-• Creating users
-• Reset passwords
-• Unlocked accounts
-• Managed security groups
-• Create and apply GPOs
+> Create a Structure Organizational  Units (OU) Professional
+> Creating users
+> Reset passwords
+> Unlocked accounts
+> Managed security groups
+> Create and apply GPOs
 ---
 
 
