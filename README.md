@@ -15,7 +15,7 @@ My goal is to develop strong operational skills required in modern IT Support an
 # Projects Overview
 
 ---
-## PROJECT 1. Active Directory Administration Lab
+## PROJECT 1. (Active Directory Administration Lab)[https://github.com/Cassandra1kack/IT-Support-Help-Desk-Portfolio/blob/main/PROJECT_1_Active_Directory_Administration.md]
 
 **Project Overview**
 Built a basic Active Directory lab environment to practice essential user administration tasks.
