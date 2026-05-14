@@ -1,5 +1,5 @@
 # PROJECT 1: Active Directory Administration 
-
+---
 ### Project Overview
 Built a basic Active Directory lab environment to practice essential user administration tasks
 
@@ -83,6 +83,7 @@ Then :
 `` New → User ``
 
 ---
+
  ## Password Reset
 
 *In Active Directory*
@@ -129,6 +130,7 @@ Déplacer utilisateur désactivé
 Déplace le user dans :
 
 ```Disabled Accounts```
+
 ---
 
 ## GPO (Create and apply GPOs)
