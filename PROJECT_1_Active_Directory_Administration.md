@@ -252,3 +252,79 @@ Name :
 
 
 ---
+
+## Demonstrated Skills
+
+**Technical Skills Demonstrated**
+
+- Active Directory administration: creation, organization, and management of Organizational Units (OUs).
+
+- User account management: creation, modification, disabling, and relocation of accounts.
+
+- Level 1 IT Support tasks: password reset, account unlock, authentication troubleshooting.
+- Security group management: creation, membership assignment, and permission handling.
+
+- Group Policy Object (GPO) configuration: password policies, security settings, system configurations.
+
+- Windows Server administration: use of Server Manager, Active Directory Users and Computers (ADUC), and Group Policy Management Console (GPMC).
+
+- Implementation of enterprise‑style directory structure following best practices.
+
+- Clear and structured technical documentation.
+
+### Soft Skills Demonstrated
+
+- Problem‑solving and troubleshooting.
+
+- Attention to detail in identity and access management.
+
+- Understanding of IT workflows (onboarding, offboarding, access control).
+
+- Ability to replicate real enterprise scenarios in a lab environment.
+
+- Technical communication using screenshots, explanations, and step‑by‑step procedures.
+
+---
+
+## Results and Impact
+
+Results Achieved
+
+- Deployment of a fully functional and professionally structured Active Directory environment.
+
+- Standardized user and group management processes.
+
+- Creation of a realistic lab environment for simulating IT Support scenarios.
+
+- Implementation of consistent security policies through GPOs.
+
+- Improved efficiency in handling common support incidents (password resets, account unlocks).
+
+Simulated Enterprise Impact
+- Enhanced security through centralized password policy enforcement.
+
+- Reduced human error thanks to a clean and hierarchical AD structure.
+
+- Faster IT support response time due to standardized procedures.
+
+- Improved lifecycle management of user accounts (onboarding/offboarding).
+
+- Alignment with ITIL and Microsoft best practices for identity management.
+
+---
+
+## What I Learned
+
+Technical Learning Outcomes
+
+- Understanding and managing Active Directory architecture.
+
+- Designing a scalable and professional OU structure.
+
+- Efficiently managing user accounts and security groups.
+
+- Using Windows Server administration tools (ADUC, GPMC).
+
+- Configuring and applying GPOs to strengthen security.
+
+- Troubleshooting authentication and access issues.
